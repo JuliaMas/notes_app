@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "title": "test",
+      "body": "start testing",
+      "date": "19.8.2023"
+    },
+    {
+      "id": 2,
+      "title": "test2",
+      "body": "second test",
+      "date": "19.8.2023"
+    }
+  ]
+}
